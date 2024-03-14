@@ -1,0 +1,11 @@
+# JourneyAnalyticsApi.AUTHRenameLoginRequest
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**loginId** | **String** | Id of the login | [optional] 
+**name** | **String** |  | [optional] 
+**siteId** | **Number** | Id of the CM Site (typically 1) | [optional] 
+
+
